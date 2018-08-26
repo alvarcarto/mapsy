@@ -29,5 +29,3 @@ node_modules
 
 # Vagrant directory
 .vagrant
-
-package-lock.json
