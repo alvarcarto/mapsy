@@ -6,6 +6,9 @@
 npm install @alvarcarto/mapsy
 ```
 
+**This code base is copied subset of [Leaflet](https://github.com/Leaflet/Leaflet) to calculate zoom
+level for given lat/lng bounds. Also works in Node.**
+
 ## Examples
 
 ```js
