@@ -1,6 +1,6 @@
 {
   "name": "@alvarcarto/mapsy",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Map/coordinate/projection utility",
   "main": "src/index.js",
   "repository": {
