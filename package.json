@@ -1,0 +1,30 @@
+{
+  "name": "@alvarcarto/mapsy",
+  "version": "1.0.0",
+  "description": "Map/coordinate/projection utility",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alvarcarto/mapsy.git"
+  },
+  "homepage": "https://github.com/alvarcarto/mapsy",
+  "keywords": [
+    "tile",
+    "map",
+    "utility",
+    "projection"
+  ],
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Alvar Carto",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.10"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0",
+    "np": "^2.19.0"
+  }
+}
